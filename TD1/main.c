@@ -2,6 +2,7 @@
 
 int main()
 {
-    printf("New Hello World!\n");
-    return 0;
+	printf("New Hello World!\n");
+	printf("New modification\n");
+	return 0;
 }
